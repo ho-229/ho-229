@@ -20,7 +20,3 @@ Can you give me a ✨star✨ for my project.
 [![](https://img.shields.io/badge/Windows-7-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-7-end-of-life-support-information)
 
 ![state](https://github-readme-stats.vercel.app/api?username=ho229v3666&show_icons=true&icon_color=BA55D3&text_color=718096&bg_color=ffffff)
-
--------
-### My Popular Project
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ho229v3666&repo=QtDemos)](https://github.com/ho229v3666/QtDemos)
