@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on Desktop Gui Application Development.
 - 🌱 I’m currently self-learning `Rust`.
 - 🤔 I’m looking for help with modern operating system.
-- ⚡ Fun fact: I love comic and I hate school.
+- ⚡ Fun fact: I love anime and I hate school.
 - 📫 How to reach me: [![](https://img.shields.io/badge/-@Ho2294-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Ho2294) [![](https://img.shields.io/badge/-t.me/Ho229v3-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Ho229v3)
-- Hope what I did can help you
+- Hope my toys can help you
 
 <!-- [My Chat Room](https://chat.getloli.com/room/@ho229-github-readme?title=Ho229) -->
 
